@@ -1,5 +1,5 @@
 def number_bigger(n1, n2, n3):
-    number = 0;
+    number = 0
     
     if n1 > n2:
         number = n1
